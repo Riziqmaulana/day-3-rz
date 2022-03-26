@@ -1,50 +1,50 @@
 
 body {
-    margin: 0;
+  margin: 0;
 }
 
 
 nav {
-    background-color: rgb(225, 233, 233);
-    display: flex;
-    height: 7vh;
+  background-color: rgb(225, 233, 233);
+  display: flex;
+  height: 7vh;
 }
 
 nav .nav-left {
-    /* background-color: blueviolet; */
-    display: flex;
-    padding-left: 100px;
-    flex: 50%;
-    align-items: center;
+  /* background-color: blueviolet; */
+  display: flex;
+  padding-left: 100px;
+  flex: 50%;
+  align-items: center;
 }
 
 
 nav .nav-left li {
-    display: inline;
+  display: inline;
 }
 
 nav .nav-left ul li a {
-    text-decoration: none;
-    color: black;
-    padding: 12px;
+  text-decoration: none;
+  color: black;
+  padding: 12px;
 }
 
 
 nav .nav-right {
-    /* background-color: brown; */
-    display: flex;
-    justify-content: flex-end; /* horizontal */
-    align-items: center; /* vertical */
-    flex: 50%;
-    padding-right: 100px;
+  /* background-color: brown; */
+  display: flex;
+  justify-content: flex-end; /* horizontal */
+  align-items: center; /* vertical */
+  flex: 50%;
+  padding-right: 100px;
 }
 
 nav .nav-right a {
-    background-color: rgb(0, 0, 0);
-    color: white;
-    padding: 8px 25px;
-    border-radius: 5px;
-    text-decoration: none;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  padding: 8px 25px;
+  border-radius: 5px;
+  text-decoration: none;
 }
 body {
     margin: 0px;
@@ -75,7 +75,7 @@ body {
   }
   /* Container */
   
-  /* Button */
+  /* /* Button
   .button-contact {
     margin-top: 40px;
   }
@@ -102,18 +102,14 @@ body {
     cursor: pointer;
   }
   /* Button */
-  
+   */
   .card-image {
     padding-bottom: 10px;
     text-align: center;
     width:  80%;
-    /* box-shadow: 0px 3px 12px whitesmoke; */
-    box-shadow: 2px 2px 5px rgb(100, 100, 100);
-    border-radius: 10px;
-    font-family: cursive;
+    box-shadow: 0px 3px 12px whitesmoke;
   }
   .image {
-    border-radius: 5px;
+    border-radius: 5px; */
   }
-  
   
